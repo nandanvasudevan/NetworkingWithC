@@ -107,7 +107,7 @@ int main(void)
     const int closeSuccess = close(serverFd);
 
     if(closeSuccess >= 0)
-    {
+    { 
         LOG(LOG_LEVEL_INFO, "Server closed.");
     }
     
