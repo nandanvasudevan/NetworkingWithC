@@ -1,0 +1,11 @@
+#ifndef C_WEB_SERVER
+#define C_WEB_SERVER
+
+#define C_WEB_SERVER_VERSION_MAJOR 0u
+#define C_WEB_SERVER_VERSION_MINOR 0u
+#define C_WEB_SERVER_VERSION_BUILD 0u
+
+#define INVALID_FD (-1)
+#define MAX_CONNECTIONS 256
+
+#endif // C_WEB_SERVER
